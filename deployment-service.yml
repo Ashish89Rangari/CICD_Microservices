@@ -127,7 +127,7 @@ spec:
     targetPort: 5050
 ---
 apiVersion: apps/v1
-kind: Deployment
+kind: Deployment 
 metadata:
   name: recommendationservice
 spec:
